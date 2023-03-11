@@ -1,6 +1,5 @@
 import unittest
 from unittest.mock import Mock
-# import utils.functools as fntools
 import lib.functools as fntools
 
 class TestFunctools(unittest.TestCase):
